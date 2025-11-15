@@ -1,6 +1,6 @@
 # 💫 About Me:
 I'm an aspiring AI-focused developer with a growing interest in iOS software engineering and the emerging field of agentic AI. I enjoy exploring how intelligent systems can be embedded into real-world applications, especially those that blend mobile experiences with adaptive artificial intelligent models. My background includes hands-on work with data pipelines, model development, and backend services, along with strong familiarity with Swift for building user-centric iOS applications.<br><br>
-I’m currently focused on expanding my knowledge in:<br><br>
+I’m currently focused on expanding my knowledge in:<br>
 <li>Intelligent automation and multi-agent systems
 <li>iOS app development using Swift
 <li>Cloud deployment workflows and scalable backend architectures
